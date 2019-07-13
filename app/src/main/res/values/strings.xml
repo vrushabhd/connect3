@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Connect 3</string>
+    <string name="red">TODO</string>
+    <string name="textview">TextView</string>
+</resources>
